@@ -6,12 +6,12 @@ I feel like the quality of the problems has been going up in the past 10 years, 
 
 Scoreboard: https://scorelatam.naquadah.com.br/latam-2020/?fbclid=IwAR2L3sSAX_iD4oB01HVewrlnqZpbm4hVw6aEg-u4FOkZ0CutkFbtgLKPuMQ#
 
-Here I give a subjective difficulty to the problems:
-Easy: DLN
-Medium-Easy: CEK
-Medium-Hard: BFHJ
-Hard: AGI
-Very Hard: M
+Here I give a subjective difficulty to the problems:<br /> 
+Easy: DLN<br /> 
+Medium-Easy: CEK<br /> 
+Medium-Hard: BFHJ<br /> 
+Hard: AGI<br /> 
+Very Hard: M<br /> 
 
 For Mexico solving all of Easy, Medium-Easy and 2 of the Medium-Hard would guarantee pass to world finals.
 
