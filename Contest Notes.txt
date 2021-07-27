@@ -21,7 +21,7 @@ Every problem was solved during the contest by at least 1 team, congratulations 
 
 DP was the most common topic it could be used in 6 of the problems, also for all DP problems (except L) they required a non-trivial transformation or optimization.
 
-Notes on M: It was very hard, I think it was comparable in difficulty to https://open.kattis.com/problems/firstofhername, IMO even harder. Would recommend finalists to solve this problem.
+Notes on M: It was very hard, I think it was comparable in difficulty to https://open.kattis.com/problems/firstofhername. Would recommend finalists to solve this problem.
 
 Link to editorial: https://github.com/Diego1149/ICPC-Latam-2020
 
